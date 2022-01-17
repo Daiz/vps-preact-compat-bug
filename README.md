@@ -1,6 +1,6 @@
 # Vite SSR preact/compat resolve issue
 
-Reproduction repo for [this issue.](https://github.com/vitejs/vite/issues/6542).
+Reproduction repo for [this Vite issue.](https://github.com/vitejs/vite/issues/6542)
 
 ## Installation
 
